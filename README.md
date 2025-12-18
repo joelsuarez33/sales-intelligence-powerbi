@@ -3,6 +3,16 @@
 ## 📊 Project Overview
 This project demonstrates a comprehensive Business Intelligence solution designed to analyze sales performance across multiple regions and product categories. The goal was to transform raw transactional data into an interactive dashboard that supports strategic decision-making.
 
+## 📊 Dashboard Previews
+
+### 1. Global Sales Performance
+*Visualizing revenue trends across states and quarterly variances.*
+![Global Sales Dashboard](dashboard-overview.png)
+
+### 2. Profitability & Forecasting
+*AI-powered forecasting (grey area) and Year-over-Year growth analysis with conditional formatting.*
+![Profitability Insights](profitability-forecast.png)
+
 ## 🛠️ Tech Stack & Approach
 * **Visualization:** Microsoft Power BI (Interactive Reports, Bookmarks, Drill-downs).
 * **Data Modelling:** Power Query (M Language) & DAX (Data Analysis Expressions).
